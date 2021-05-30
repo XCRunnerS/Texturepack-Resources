@@ -52,16 +52,54 @@ alright I cant say much about this but you can use it if you want. its free and 
 <https://www.gimp.org/> gimp is free, has wide support for plugins, and has a lot of tutorials as well. `needs extending`. gimp also has support for windows, mac, and linux
 -->
 
+## Pixel Art Tuotorials
+
+tutorials for pixel art
+
+## Palettes and Colors
+
+a list of free to use palettes, along with resources for colors and color theory
+
+## Base Packs
+
+base packs for minecraft texturepacks, for 1.7/8, 1.16, and bedrock
+
+## Texturepack Tutorials
+
+### Skies
+
+### Swords
+
+## Texturepack resources
+
+### **(folder/download)**
+
+resources for making texturepacks, including some sword shapes, axe shapes, and similar!
+
+## Assorted Other Assets
+
+some youtubers or videos or sites didnt quite fit into a category or were outdated, or were replaced, but are still useful! check out this table for some more resources!
+
+Table H1 | Table H2
+--|--
+table noises | more table noises
+
 ## Footer
 
 this combines resources from the Pack community discord, lospec, and XCRunnerS, Please try to communicate with me on discord `@XCRunnerS#7188` on either the [Pack Community discord](https://discord.gg/6gEuhjun8q) or through dms
 
 ### **Credits**
 
+**Also check CREDITS.txt out!**
+
 Name | Role | Media
 --|--|--
 XCRunnerS | Contributor | [Github](https://github.com/XCRunnerS)
 `@iodine#1823` | Original Compilation | `@iodine#1823`
+
+XCRunnerS
+> testing markdown blockquotes
+> second line
 
 ### Contribute
 
