@@ -43,6 +43,5 @@ alright I cant say much about this but you can use it if you want. its free and 
 
 ## Footer
 
-this combines resources from the Pack community discord, lospec, and XCRunnerS
-
+this combines resources from the Pack community discord, lospec, and XCRunnerS, Please try to communicate with me on discord `@XCRunnerS#7188` on either the [Pack Community discord](https://discord.gg/6gEuhjun8q) or through dms
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
