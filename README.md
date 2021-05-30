@@ -1,3 +1,14 @@
+<!--
+Planned layout:
+
+Software/editors
+Pixel art tutorials collection
+Palettes
+Base Packs
+Texturepack tips
+Assets/references
+
+-->
 
 # Resources for texturepacks
 
@@ -44,4 +55,16 @@ alright I cant say much about this but you can use it if you want. its free and 
 ## Footer
 
 this combines resources from the Pack community discord, lospec, and XCRunnerS, Please try to communicate with me on discord `@XCRunnerS#7188` on either the [Pack Community discord](https://discord.gg/6gEuhjun8q) or through dms
-[Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+
+### **Credits**
+
+Name | Role | Media
+--|--|--
+XCRunnerS | Contributor | [Github](https://github.com/XCRunnerS)
+`@iodine#1823` | Original Compilation | `@iodine#1823`
+
+### Contribute
+
+for style guidence use this: [Markdown Guide](https://guides.github.com/features/mastering-markdown/), I reccomend using VSCode to work on these
+
+This is all still a WIP, so expect like nothing yet I barely know how github works lmao
