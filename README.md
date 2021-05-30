@@ -52,9 +52,25 @@ alright I cant say much about this but you can use it if you want. its free and 
 <https://www.gimp.org/> gimp is free, has wide support for plugins, and has a lot of tutorials as well. `needs extending`. gimp also has support for windows, mac, and linux
 -->
 
-## Pixel Art Tuotorials
+## Pixel Art Channels and Tutorials
 
-tutorials for pixel art
+### **Channels**
+
+Creator (With link) | Media Platforms
+--|--
+Brandon James Greer | [YouTube](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg), [Twitter](https://twitter.com/BJGpixel)
+Pixel Pete | [YoTube](https://www.youtube.com/user/MilkoDaily)
+Pixel Overload | [YouTube](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ), 
+AdamCYounis | https://www.youtube.com/channel/UC08QfQDLAd9D7aYPFgBUIng
+Saultoons | https://www.youtube.com/user/saultoons
+MortMort | [Youtube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
+
+### **Tutorials**
+
+Playlist | Topic | Creator
+--|--|--
+[Pixel art Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b) | Aesprite/Highly Varied | MortMort
+[Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) | Aseprite | MortMort
 
 ## Palettes and Colors
 
@@ -87,6 +103,16 @@ table noises | more table noises
 ## Footer
 
 this combines resources from the Pack community discord, lospec, and XCRunnerS, Please try to communicate with me on discord `@XCRunnerS#7188` on either the [Pack Community discord](https://discord.gg/6gEuhjun8q) or through dms
+
+### Footnotes
+
+This is also a place to mention some FAQs:
+
+> some creators have specific links, others dont, why is that?
+
+This is because their content on that platform isnt centered around this specific topic only, they may have good resources for similar topics, but for example, MortMort doesnt make many pixel art tutorials anymore, so I linked to his playlist and still mentioned him, this usually means that they have good specific stuff and new content from him should be considered but its unlikely to be created specifically for this post's ultility
+
+this also is the case for people's secondary platforms, if they dont have soley pixel art content on a second platform, linking to their youtube is likely good enough, the platform is there, but if theres politics or other non-useful resources I dont want to spam you with them
 
 ### **Credits**
 
