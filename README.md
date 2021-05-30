@@ -97,10 +97,6 @@ Name | Role | Media
 XCRunnerS | Contributor | [Github](https://github.com/XCRunnerS)
 `@iodine#1823` | Original Compilation | `@iodine#1823`
 
-XCRunnerS
-> testing markdown blockquotes
-> second line
-
 ### Contribute
 
 for style guidence use this: [Markdown Guide](https://guides.github.com/features/mastering-markdown/), I reccomend using VSCode to work on these
