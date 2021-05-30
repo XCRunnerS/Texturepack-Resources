@@ -60,9 +60,9 @@ Creator (With link) | Media Platforms
 --|--
 Brandon James Greer | [YouTube](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg), [Twitter](https://twitter.com/BJGpixel)
 Pixel Pete | [YoTube](https://www.youtube.com/user/MilkoDaily)
-Pixel Overload | [YouTube](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ), 
-AdamCYounis | https://www.youtube.com/channel/UC08QfQDLAd9D7aYPFgBUIng
-Saultoons | https://www.youtube.com/user/saultoons
+Pixel Overload | [YouTube](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ)
+AdamCYounis | [Youtube](https://www.youtube.com/channel/UC08QfQDLAd9D7aYPFgBUIng)
+Saultoons | [Youtube](https://www.youtube.com/user/saultoons)
 MortMort | [Youtube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
 
 ### **Tutorials**
