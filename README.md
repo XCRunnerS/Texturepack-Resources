@@ -31,26 +31,7 @@ GRAPHICS GALE
 GRAFX2
 PIKOPIXEL
 
-please note there are more, but I dont consider them to be as good as the ones listed, or are just worse than listed products.
-
-<!-- Software section https://youtu.be/90BghUX7SD0 https://lospec.com/pixel-art-software-list needs extending
-### **[Paint.net](https://www.getpaint.net/download.html)**
-
-[Link](https://www.getpaint.net/)
-just because its called `paint.net`, its a tiny bit confusing, but the URL is <https://www.getpaint.net/>, so keep that in mind. It is also free, open source, and supports plugins. you will want to see the `plugin list` later in this post! It is one of the simplest tools to use for windows
-
-### MS paint
-
-alright I cant say much about this but you can use it if you want. its free and already installed on all windows machines at the moment, go wild
-
-### aseprite
-
-<https://www.aseprite.org/> the main pro of aseprite is the wide range of customizability, access to direct tutorials, and high fidelity for animation and general pixel art. this is a paid option, but can be bought on steam, aseprite's website, and many other places `list needed` along with support for windows, mac, and linux
-
-### gimp
-
-<https://www.gimp.org/> gimp is free, has wide support for plugins, and has a lot of tutorials as well. `needs extending`. gimp also has support for windows, mac, and linux
--->
+please note there are more, but I dont consider them to be as good as the ones listed, or are just worse than listed products. They will be listed in the `assorted other assets` section
 
 ## Pixel Art Channels and Tutorials
 
@@ -76,15 +57,36 @@ Playlist | Topic | Creator
 
 a list of free to use palettes, along with resources for colors and color theory
 
+A good place to start if you want to use someone else's color palette is [Lospec](https://lospec.com/palette-list), it has a lot of public palettes, and theyre usually pretty good! sorting by `Downloads` is a good way to find some decent palettes, but soem general ones I like are listed in a chart below:
+
+### Premade Palettes
+
+Palette Name | Notes
+--|--
+[ENDESGA 36](https://lospec.com/palette-list/endesga-36)| see [Endsega's](https://lospec.com/endesga) profile for more
+[PEAR36](https://lospec.com/palette-list/pear36) | see [PINEAPPLE's](https://lospec.com/pinetreepizza) profile for more
+[JUICE32](https://lospec.com/palette-list/juice32) | see their profile for 52 color version
+[BUBBLEGUM 16](https://lospec.com/palette-list/bubblegum-16) | see [PINEAPPLE's](https://lospec.com/pinetreepizza) profile for more
+
+### Custom Colors
+
+If you want to make your own colors, see some tutorials from [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTeO3XkF1vOZzVGYsqG6APA)
+
 ## Base Packs
 
-base packs for minecraft texturepacks, for 1.7/8, 1.16, and bedrock
+base packs for minecraft texturepacks, for 1.7/8, 1.16, and bedrock edition, see the `Wiki page` for more info
 
 ## Texturepack Tutorials
 
 ### Skies
 
+For custom skies, you can really do a lot! [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTccV8b2srMem7SE0M-GvI0) has a lot of information about custom skies!
+
 ### Swords
+
+### General/All
+
+theres a lot of playlists for this, help make this smaller by contributing to the [master playlist](https://youtube.com/playlist?list=PLesud3jd5eXRF27Rtg65hc8NpUGVUayp_) for pack making! This section is extended via the `Wiki page`
 
 ## Texturepack resources
 
