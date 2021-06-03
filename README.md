@@ -24,7 +24,7 @@ MS paint | free | Windows | no downloads
 [Paint.net](https://www.getpaint.net/download.html) | free | Windows | plugins / support
 [gimp](https://www.gimp.org/downloads/) | free | Windows, macOS, Linux | plugins / photosop-like layout
 [krita](https://krita.org/en/download/krita-desktop/) | free | Windows, macOS, Linux | photoshop-like layout
-[aseprite](https://aseprite.org/#buy) | $19.99 | Windows, macOS, Linux | high quality pixel art editor + scripts
+[aseprite](https://aseprite.org/#buy) | $19.99 [Free](https://www.youtube.com/watch?v=WKeNJh_gIJU) | Windows, macOS, Linux | high quality pixel art editor + scripts
 Photoshop
 PYXELEDIT
 GRAPHICS GALE
@@ -45,6 +45,8 @@ Pixel Overload | [YouTube](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_
 AdamCYounis | [Youtube](https://www.youtube.com/channel/UC08QfQDLAd9D7aYPFgBUIng)
 Saultoons | [Youtube](https://www.youtube.com/user/saultoons)
 MortMort | [Youtube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
+Saint11 | [sait11.org](https://saint11.org/blog/pixel-art-tutorials/) (personal site)
+
 
 ### **Tutorials**
 
@@ -70,7 +72,7 @@ Palette Name | Notes
 
 ### Custom Colors
 
-If you want to make your own colors, see some tutorials from [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTeO3XkF1vOZzVGYsqG6APA)
+If you want to make your own colors, see some tutorials from [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTeO3XkF1vOZzVGYsqG6APA). More help for creating color palettes can be found on [Adobe Color](https://color.adobe.com/create/color-wheel) and [coolers.co](https://coolors.co/) for help generating colors from a base color, our `Wiki` also has some base palettes that are free to use
 
 ## Base Packs
 
@@ -78,11 +80,18 @@ base packs for minecraft texturepacks, for 1.7/8, 1.16, and bedrock edition, see
 
 ## Texturepack Tutorials
 
+Name | Platform
+--|--
+Uncle Jam | [Youtube](https://www.youtube.com/c/UncleJam/videos)
+Finlay | [Youtube](https://www.youtube.com/channel/UCeJcXqFJLVT4vuo_X7CZATQ)
+
 ### Skies
 
 For custom skies, you can really do a lot! [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTccV8b2srMem7SE0M-GvI0) has a lot of information about custom skies!
 
 ### Swords
+
+<!-- https://cdn.discordapp.com/attachments/796121898777837608/796943163407073322/swordparts.png -->
 
 ### General/All
 
@@ -93,6 +102,14 @@ theres a lot of playlists for this, help make this smaller by contributing to th
 ### **(folder/download)**
 
 resources for making texturepacks, including some sword shapes, axe shapes, and similar!
+
+### Advanced Techniques (3d blocks/models)
+
+Name | Link
+--|--
+Blockbench | <https://blockbench.net/>
+Cubik Studio | <https://cubik.studio/>
+MrCrayfish's Model Creator | <https://mrcrayfish.com/tools?id=mc>
 
 ## Assorted Other Assets
 
@@ -108,22 +125,21 @@ this combines resources from the Pack community discord, lospec, and XCRunnerS, 
 
 ### Footnotes
 
+#### FAQ
+
 This is also a place to mention some FAQs:
 
 > some creators have specific links, others dont, why is that?
 
+```1
 This is because their content on that platform isnt centered around this specific topic only, they may have good resources for similar topics, but for example, MortMort doesnt make many pixel art tutorials anymore, so I linked to his playlist and still mentioned him, this usually means that they have good specific stuff and new content from him should be considered but its unlikely to be created specifically for this post's ultility
 
 this also is the case for people's secondary platforms, if they dont have soley pixel art content on a second platform, linking to their youtube is likely good enough, the platform is there, but if theres politics or other non-useful resources I dont want to spam you with them
+```
 
 ### **Credits**
 
-**Also check CREDITS.txt out!**
-
-Name | Role | Media
---|--|--
-XCRunnerS | Contributor | [Github](https://github.com/XCRunnerS)
-`@iodine#1823` | Original Compilation | `@iodine#1823`
+Check out `Link to Credits.txt`!
 
 ### Contribute
 
