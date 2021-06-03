@@ -117,7 +117,7 @@ some youtubers or videos or sites didnt quite fit into a category or were outdat
 
 Table H1 | Table H2
 --|--
-table noises | more table noises
+[Image Collection](https://imgur.com/a/YgQ1qih) | images folder
 
 ## Footer
 
@@ -132,9 +132,21 @@ This is also a place to mention some FAQs:
 > some creators have specific links, others dont, why is that?
 
 ```1
-This is because their content on that platform isnt centered around this specific topic only, they may have good resources for similar topics, but for example, MortMort doesnt make many pixel art tutorials anymore, so I linked to his playlist and still mentioned him, this usually means that they have good specific stuff and new content from him should be considered but its unlikely to be created specifically for this post's ultility
+This is because their content on that platform isnt centered around this specific topic only
+they may have good resources for similar topics, but for example:
+MortMort doesnt make many pixel art tutorials anymore so:
+I linked to his playlists and still mentioned him
+For him and other creators this means:
+- they have good stuff
+- new content from them should be considered 
+- its unlikely to be created
 
-this also is the case for people's secondary platforms, if they dont have soley pixel art content on a second platform, linking to their youtube is likely good enough, the platform is there, but if theres politics or other non-useful resources I dont want to spam you with them
+this also is the case for people's secondary platforms
+if they dont have soley pixel art content on a second platform
+linking to their youtube is likely good enough
+the platform is usually on their channel
+if theres politics or other non-useful resources
+I dont want to spam you with them
 ```
 
 ### **Credits**
