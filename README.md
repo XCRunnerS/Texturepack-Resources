@@ -12,6 +12,9 @@ Assets/references
 
 # Resources for texturepacks
 
+## Wiki Link
+[Wiki](https://github.com/XCRunnerS/Texturepack-Resources/wiki)
+
 ## Texturepack Software
 
 There are lots of software options for pixel art and texturepacks, this will list some and their main features/downsides/improvements you should make
