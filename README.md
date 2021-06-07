@@ -50,7 +50,6 @@ Saultoons | [Youtube](https://www.youtube.com/user/saultoons)
 MortMort | [Youtube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
 Saint11 | [sait11.org](https://saint11.org/blog/pixel-art-tutorials/) (personal site)
 
-
 ### **Tutorials**
 
 Playlist | Topic | Creator
@@ -75,13 +74,17 @@ Palette Name | Notes
 
 ### Custom Colors
 
-If you want to make your own colors, see some tutorials from [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTeO3XkF1vOZzVGYsqG6APA). More help for creating color palettes can be found on [Adobe Color](https://color.adobe.com/create/color-wheel) and [coolers.co](https://coolors.co/) for help generating colors from a base color, our `Wiki` also has some base palettes that are free to use
+If you want to make your own colors, see some tutorials from [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTeO3XkF1vOZzVGYsqG6APA). More help for creating color palettes can be found on [Adobe Color](https://color.adobe.com/create/color-wheel) and [coolers.co](https://coolors.co/) for help generating colors from a base color, the [Wiki page](https://github.com/XCRunnerS/Texturepack-Resources/wiki/Colors) also has some base palettes that are free to use!
 
 ## Base Packs
 
-base packs for minecraft texturepacks, for 1.7/8, 1.16, and bedrock edition, see the `Wiki page` for more info
+base packs for minecraft texturepacks, for 1.7/8, 1.16, and bedrock edition, see the [Wiki page](https://github.com/XCRunnerS/Texturepack-Resources/wiki/Base-Packs) for more info
 
-## Texturepack Tutorials
+## Texturepack Tutorials and Resources
+
+### General/All
+
+theres a lot of playlists for this, help make this smaller by contributing to the [master playlist](https://youtube.com/playlist?list=PLesud3jd5eXRF27Rtg65hc8NpUGVUayp_) for pack making! This section is extended via github's `Wiki` section! [Wiki](https://github.com/XCRunnerS/Texturepack-Resources/wiki)
 
 Name | Platform
 --|--
@@ -96,11 +99,11 @@ For custom skies, you can really do a lot! [this playlist](https://www.youtube.c
 
 <!-- https://cdn.discordapp.com/attachments/796121898777837608/796943163407073322/swordparts.png -->
 
-### General/All
+### Animation
 
-theres a lot of playlists for this, help make this smaller by contributing to the [master playlist](https://youtube.com/playlist?list=PLesud3jd5eXRF27Rtg65hc8NpUGVUayp_) for pack making! This section is extended via the `Wiki page`
+documentation on animated textures can be found in the [Wiki Page](https://github.com/XCRunnerS/Texturepack-Resources/wiki/Animation) for animation
 
-## Texturepack resources
+## Texturepack References Folder
 
 ### **(folder/download)**
 
