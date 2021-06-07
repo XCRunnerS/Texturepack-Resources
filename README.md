@@ -47,7 +47,6 @@ Saultoons | [Youtube](https://www.youtube.com/user/saultoons)
 MortMort | [Youtube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
 Saint11 | [sait11.org](https://saint11.org/blog/pixel-art-tutorials/) (personal site)
 
-
 ### **Tutorials**
 
 Playlist | Topic | Creator
