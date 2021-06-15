@@ -13,6 +13,7 @@ Assets/references
 # Resources for texturepacks
 
 ## Wiki Link
+
 [Wiki](https://github.com/XCRunnerS/Texturepack-Resources/wiki)
 
 ## Texturepack Software
@@ -22,17 +23,17 @@ There are lots of software options for pixel art and texturepacks, this will lis
 Software | Price | OS | Features
 --|--|--|--
 MS paint | free | Windows | no downloads
-[Lospec Editor](https://lospec.com/pixel-editor/app) | free | Web-Browser | no downloads + Lospec palettes
+*[*Lospec Editor](https://lospec.com/pixel-editor/app) | free | Web-Browser | no downloads + Lospec palettes
 [pixilart Editor](https://www.pixilart.com/draw) | free | Web-Browser | no downloads <!-- USE THIS TYPE OF FORMAT -->
-[Paint.net](https://www.getpaint.net/download.html) | free | Windows | plugins / support
+*[*Paint.net](https://www.getpaint.net/download.html) | free | Windows | plugins / support
 [gimp](https://www.gimp.org/downloads/) | free | Windows, macOS, Linux | plugins / photosop-like layout
 [krita](https://krita.org/en/download/krita-desktop/) | free | Windows, macOS, Linux | photoshop-like layout
-[aseprite](https://aseprite.org/#buy) | $19.99 [Free](https://www.youtube.com/watch?v=WKeNJh_gIJU) | Windows, macOS, Linux | high quality pixel art editor + scripts
-Photoshop
-PYXELEDIT
-GRAPHICS GALE
-GRAFX2
-PIKOPIXEL
+[GRAPHICS GALE](https://graphicsgale.com/us/) | free | Windows | animation
+[PYXELEDIT](https://www.pyxeledit.com/) | $9.00 | Windows, macOS | has a free OLD version, tilesets, aninimation
+*[*aseprite](https://aseprite.org/#buy) | $19.99, [Free](https://www.youtube.com/watch?v=WKeNJh_gIJU) | Windows, macOS, Linux | high quality pixel art editor, scripts, themes
+[Photoshop](https://www.photoshop.com/en) | $9.99/month, [minimum](https://www.adobe.com/creativecloud/plans.html?promoid=61PM7YF5&mv=other) | Windows, macOS, Linux | high quality photo editing and integration with adobe suite
+
+*[*](https://www.google.com/) recommended
 
 please note there are more, but I dont consider them to be as good as the ones listed, or are just worse than listed products. They will be listed in the `assorted other assets` section
 
@@ -120,6 +121,8 @@ MrCrayfish's Model Creator | <https://mrcrayfish.com/tools?id=mc>
 ## Assorted Other Assets
 
 some youtubers or videos or sites didnt quite fit into a category or were outdated, or were replaced, but are still useful! check out this table for some more resources!
+
+GRAFX2, PIKOPIXEL
 
 Table H1 | Table H2
 --|--
