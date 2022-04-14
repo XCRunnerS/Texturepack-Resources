@@ -1,55 +1,165 @@
-Pack Stuff You Should Know (Java)
-pack.mcmeta
-pack.mcmeta is basically how you tell minecraft your pack's version and description, and that its a pack for minecraft!
+<!--
+Planned layout:
+Software/editors
+Pixel art tutorials collection
+Palettes
+Base Packs
+Texturepack tips
+Assets/references
+-->
 
-A basic pack.mcmeta will look something like this:
+# Resources for texturepacks
 
-{ 
-  "pack": {
-    "pack_format": 8,
-    "description": "Visible Pack Description"
-    }
-}
-"pack": is a required peice of metadata, all the rest of the mcmeta file will go inside of this tag
+## Wiki Link
 
-"pack_format": tells minecraft what version your pack is for, current it supports integer values 0-9*
+[Wiki](https://github.com/XCRunnerS/Texturepack-Resources/wiki)
 
-"pack_format": #	Minecraft Version	Notes
-"pack_format": 0	1.6-1.7.10	unused
-"pack_format": 1	1.6-1.8.9	pvp packs
-"pack_format": 2	1.9–1.10.2	-
-"pack_format": 3	1.11–1.12.2	-
-"pack_format": 4	1.13–1.14.4	0-3 break in 1.13+ (Flattening)
-"pack_format": 5	1.15–1.16.1	-
-"pack_format": 6	1.16.2–1.16.5	-
-"pack_format": 7	1.17.x	-
-"pack_format": 8	1.18.x	current
-check Minecraft Wiki: Pack_format for more
+## Texturepack Software
 
-"description": "visible in game"
+There are lots of software options for pixel art and texturepacks, this will list some and their main features/downsides/improvements you should make
 
-supports Formatting Codes
-will display a maximum of two lines
-more stuff:
+Software | Price | OS | Features
+--|--|--|--
+MS paint | free | Windows | no downloads
+*[*Lospec Editor](https://lospec.com/pixel-editor/app) | free | Web-Browser | no downloads + Lospec palettes
+[pixilart Editor](https://www.pixilart.com/draw) | free | Web-Browser | no downloads <!-- USE THIS TYPE OF FORMAT -->
+*[*Paint.net](https://www.getpaint.net/download.html) | free | Windows | plugins / support
+[gimp](https://www.gimp.org/downloads/) | free | Windows, macOS, Linux | plugins / photosop-like layout
+[krita](https://krita.org/en/download/krita-desktop/) | free | Windows, macOS, Linux | photoshop-like layout
+[GRAPHICS GALE](https://graphicsgale.com/us/) | free | Windows | animation
+[PYXELEDIT](https://www.pyxeledit.com/) | $9.00 | Windows, macOS | has a free OLD version, tilesets, aninimation
+*[*aseprite](https://aseprite.org/#buy) | $19.99, [Free](https://www.youtube.com/watch?v=WKeNJh_gIJU) | Windows, macOS, Linux | high quality pixel art editor, scripts, themes
+[Photoshop](https://www.photoshop.com/en) | $9.99/month, [minimum](https://www.adobe.com/creativecloud/plans.html?promoid=61PM7YF5&mv=other) | Windows, macOS, Linux | high quality photo editing and integration with adobe suite
 
-uses json format
-all items on the same level (in this case description and pack_format) should be seperated by a , symbol
-"pack_format": 9 will most likely be used for 1.19.x
-pack.png
-should be SQUARE dimensions
-will be scaled down to roughly 64x64 on 1080p monitors using default scaling
-uses nearest neighbor to scale the image up/down (crisp pixel art, pixelated highres art)
-assets folder
-the actual textures go in here, you should use a tutorial like Mine to extract the default textures, and reference the default folder structure and file names for your pack. use the same minecraft version the pack is made for
+*[*](https://www.google.com/) recommended
 
-Distributing Packs
-Use Mega!
+please note there are more, but I dont consider them to be as good as the ones listed, or are just worse than listed products. They will be listed in the `assorted other assets` section
 
-no ads
-25gb storage limit/acc
-clear download button
-Credits and Legal
-credit all your textures you use. put it in a file called CREDITS.txt or README.md
-check for LICENSE and CREDITS files in packs you referenced
-try to make sure you dont have any default textures in your pack (mojang usually doesnt care, but its technically against the terms of service)
-look at Creative Commons and include a LICENSE that works for you (optional)
+## Pixel Art Channels and Tutorials
+
+### **Channels**
+
+Creator (With link) | Media Platforms
+--|--
+Brandon James Greer | [YouTube](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg), [Twitter](https://twitter.com/BJGpixel)
+Pixel Pete | [YoTube](https://www.youtube.com/user/MilkoDaily)
+Pixel Overload | [YouTube](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ)
+AdamCYounis | [Youtube](https://www.youtube.com/channel/UC08QfQDLAd9D7aYPFgBUIng)
+Saultoons | [Youtube](https://www.youtube.com/user/saultoons)
+MortMort | [Youtube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
+Saint11 | [sait11.org](https://saint11.org/blog/pixel-art-tutorials/) (personal site)
+
+### **Tutorials**
+
+Playlist | Topic | Creator
+--|--|--
+[Pixel art Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b) | Aesprite/Highly Varied | MortMort
+[Aseprite Tutorials](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk) | Aseprite | MortMort
+
+## Palettes and Colors
+
+a list of free to use palettes, along with resources for colors and color theory
+
+A good place to start if you want to use someone else's color palette is [Lospec](https://lospec.com/palette-list), it has a lot of public palettes, and theyre usually pretty good! sorting by `Downloads` is a good way to find some decent palettes, but soem general ones I like are listed in a chart below:
+
+### Premade Palettes
+
+Palette Name | Notes
+--|--
+[ENDESGA 36](https://lospec.com/palette-list/endesga-36)| see [Endsega's](https://lospec.com/endesga) profile for more
+[PEAR36](https://lospec.com/palette-list/pear36) | see [PINEAPPLE's](https://lospec.com/pinetreepizza) profile for more
+[JUICE32](https://lospec.com/palette-list/juice32) | see their profile for 52 color version
+[BUBBLEGUM 16](https://lospec.com/palette-list/bubblegum-16) | see [PINEAPPLE's](https://lospec.com/pinetreepizza) profile for more
+
+### Custom Colors
+
+If you want to make your own colors, see some tutorials from [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTeO3XkF1vOZzVGYsqG6APA). More help for creating color palettes can be found on [Adobe Color](https://color.adobe.com/create/color-wheel) and [coolers.co](https://coolors.co/) for help generating colors from a base color, the [Wiki page](https://github.com/XCRunnerS/Texturepack-Resources/wiki/Colors) also has some base palettes that are free to use!
+
+## Base Packs
+
+base packs for minecraft texturepacks, for 1.7/8, 1.16, and bedrock edition, see the [Wiki page](https://github.com/XCRunnerS/Texturepack-Resources/wiki/Base-Packs) for more info
+
+## Texturepack Tutorials and Resources
+
+### General/All
+
+theres a lot of playlists for this, help make this smaller by contributing to the [master playlist](https://youtube.com/playlist?list=PLesud3jd5eXRF27Rtg65hc8NpUGVUayp_) for pack making! This section is extended via github's `Wiki` section! [Wiki](https://github.com/XCRunnerS/Texturepack-Resources/wiki)
+
+Name | Platform
+--|--
+Uncle Jam | [Youtube](https://www.youtube.com/c/UncleJam/videos)
+Finlay | [Youtube](https://www.youtube.com/channel/UCeJcXqFJLVT4vuo_X7CZATQ)
+
+### Skies
+
+For custom skies, you can really do a lot! [this playlist](https://www.youtube.com/playlist?list=PLesud3jd5eXTccV8b2srMem7SE0M-GvI0) has a lot of information about custom skies!
+
+### Swords
+
+<!-- https://cdn.discordapp.com/attachments/796121898777837608/796943163407073322/swordparts.png -->
+
+### Animation
+
+documentation on animated textures can be found in the [Wiki Page](https://github.com/XCRunnerS/Texturepack-Resources/wiki/Animation) for animation
+
+## Texturepack References Folder
+
+### **(folder/download)**
+
+resources for making texturepacks, including some sword shapes, axe shapes, and similar!
+
+### Advanced Techniques (3d blocks/models)
+
+Name | Link
+--|--
+Blockbench | <https://blockbench.net/>
+Cubik Studio | <https://cubik.studio/>
+MrCrayfish's Model Creator | <https://mrcrayfish.com/tools?id=mc>
+
+## Assorted Other Assets
+
+some youtubers or videos or sites didnt quite fit into a category or were outdated, or were replaced, but are still useful! check out this table for some more resources!
+
+GRAFX2, PIKOPIXEL
+
+Table H1 | Table H2
+--|--
+[Image Collection](https://imgur.com/a/YgQ1qih) | images folder
+
+## Footer
+
+this combines resources from the Pack community discord, lospec, and XCRunnerS, Please try to communicate with me on discord `@XCRunnerS#7188` on either the [Pack Community discord](https://discord.gg/6gEuhjun8q) or through dms
+
+### Footnotes
+
+#### FAQ
+
+This is also a place to mention some FAQs:
+
+> some creators have specific links, others dont, why is that?
+```1
+This is because their content on that platform isnt centered around this specific topic only
+they may have good resources for similar topics, but for example:
+MortMort doesnt make many pixel art tutorials anymore so:
+I linked to his playlists and still mentioned him
+For him and other creators this means:
+- they have good stuff
+- new content from them should be considered 
+- its unlikely to be created
+this also is the case for people's secondary platforms
+if they dont have soley pixel art content on a second platform
+linking to their youtube is likely good enough
+the platform is usually on their channel
+if theres politics or other non-useful resources
+I dont want to spam you with them
+```
+
+### **Credits**
+
+Check out `Link to Credits.txt`!
+
+### Contribute
+
+for style guidence use this: [Markdown Guide](https://guides.github.com/features/mastering-markdown/), I reccomend using VSCode to work on these
+
+This is all still a WIP, so expect like nothing yet I barely know how github works lmao
